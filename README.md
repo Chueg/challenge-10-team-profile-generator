@@ -22,7 +22,8 @@ The purpose of this project was to learn to implement html generation and sequel
 ## Installation
 
 
-npm install in console
+enter ~npm install~ in the console
+use ~node index~ to launch the program in the console
 
 ## Usage
 
