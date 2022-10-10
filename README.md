@@ -28,7 +28,8 @@ use ~node index~ to launch the program in the console
 ## Usage
 [Untitled_ Oct 10, 2022 3_07 PM.webm](https://user-images.githubusercontent.com/106410591/194944341-e772742d-8f37-488c-b959-0527730a5e8b.webm)
 
-
+![image](https://user-images.githubusercontent.com/106410591/194944646-7cecdee4-23f8-49c7-b4a0-acebb1d5665d.png)
+An example of a finished html.
 
 
 ## License
